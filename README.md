@@ -1,3 +1,4 @@
+<img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
 - 👋 嗨, 我是 @hmjz100
 - 👀 我对 ... 感兴趣
 - 🌱 我现在正在学 ...
