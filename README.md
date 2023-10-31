@@ -1,17 +1,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hmjz100&show_icons=true"></img><br>
 <img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
 - 👋 嗨, 我是 @hmjz100
-- 👀 我对 ... 感兴趣
+- 👀 我对 HTML、JavaScript以及AI 感兴趣
 - 🌱 我现在正在学 ...
 - 💞️ 我正在寻找合作 ...
-- 📫 如何联系我 ... 2281323699@qq.com
+- 📫 如何联系我 2281323699@qq.com
+- 🔓️ 暗号 80149
+
+<!---
 - 👋 Hi, I’m @hmjz100
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 2281323699@qq.com
+- 📫 How to reach me ...
 
-<!---
 hmjz100/hmjz100 是一个 ✨ 特殊的 ✨ 存储库，因为它的 `README.md`（此文件）出现在您的 GitHub 个人资料中。
 您可以单击“预览”链接查看您的更改。
 
