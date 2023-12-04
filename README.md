@@ -1,11 +1,24 @@
-<img src="https://github-readme-stats.vercel.app/api?username=hmjz100&show_icons=true"></img><br>
-<img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
+<p align="center"><img width="150vh" src="https://avatars.githubusercontent.com/u/98228280"></img></p>
+
+![Views](https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg)
+
+> 菩提本无树,明镜亦非台。本来无一物,何处惹尘埃。——《菩提偈》惠能  
+>  
+> 开放、平等、协作、快速、共享。 ——互联网精神  
+>  
+> 开源的理念追求的并不是独一无二，而是传播有趣的东西，你并不一定非要做出别人无法做出的东西。只要有趣，你可以把别人的东西做出来，别人也可以把你的东西做出来，仍然能从中获得一些乐趣，可以极大的满足人创造的需求。——[如何正确理解开源精神？ -知乎](https://www.zhihu.com/question/383024084)
+
+感谢任何为开源社区做奉献的人！当然也包括我改的项目的原作者o(≧▽≦)o  
+你能在各大平台中搜到我。
+
 - 👋 嗨, 我是 @hmjz100
 - 👀 我对 HTML、JavaScript以及AI 感兴趣
 - 🌱 我现在正在学 ...
 - 💞️ 我正在寻找合作 ...
 - 📫 如何联系我 2281323699@qq.com
-- ✨ 暗号 80149
+- ✨ 暗号 ...
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hmjz100&show_icons=true"></img></p>
 
 <!---
 - 👋 Hi, I’m @hmjz100
@@ -23,4 +36,6 @@ You can click the Preview link to take a look at your changes.
 <br><br><br><br><br>
 如你所见，Online-disk-direct-link-download-assistant是一个很直接的机器翻译，<br>
 所以我取了一个新名字：LinkSwift
+
+<img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
 --->
