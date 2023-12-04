@@ -1,6 +1,4 @@
-<p align="center"><img width="150vh" src="https://avatars.githubusercontent.com/u/98228280"></img></p>
-
-![Views](https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg)
+<p align="center"><img width="150vh" src="https://avatars.githubusercontent.com/u/98228280"></img><br/><img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img></p>
 
 > 菩提本无树,明镜亦非台。本来无一物,何处惹尘埃。——《菩提偈》惠能  
 >  
@@ -30,6 +28,8 @@
 hmjz100/hmjz100 是一个 ✨ 特殊的 ✨ 存储库，因为它的 `README.md`（此文件）出现在您的 GitHub 个人资料中。
 您可以单击“预览”链接查看您的更改。
 
+https://avatar/s.githu/busercontent.com/u/98228280
+
 hmjz100/hmjz100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
@@ -38,4 +38,5 @@ You can click the Preview link to take a look at your changes.
 所以我取了一个新名字：LinkSwift
 
 <img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
+![Views](https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg)
 --->
