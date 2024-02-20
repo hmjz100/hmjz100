@@ -1,4 +1,4 @@
-<p align="center"></p>
+<p align="center"><img src="https://socialify.git.ci/hmjz100/hmjz100/image?description=1&descriptionEditable=%E4%BD%A0%E8%83%BD%E5%9C%A8%E5%90%84%E5%A4%A7%E5%B9%B3%E5%8F%B0%E6%90%9C%E5%88%B0%E6%88%91~&font=Jost&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98228280&name=1&pattern=Circuit%20Board&theme=Auto" alt="hmjz100" width="640" height="320" /></p>
 
 > 菩提本无树,明镜亦非台。本来无一物,何处惹尘埃。——《菩提偈》惠能  
 >  
