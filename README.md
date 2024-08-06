@@ -1,4 +1,5 @@
 ![hmjz100](https://socialify.git.ci/hmjz100/hmjz100/image?description=1&descriptionEditable=你能在各大平台中找到我~&font=Jost&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98228280&name=1&pattern=Circuit%20Board&theme=Auto)
+<p align="center">个人博客: <a target="_blank" href="https://addbeflashlite.epizy.com">https://addbeflashlite.epizy.com</a></p>
 
 > 菩提本无树,明镜亦非台。本来无一物,何处惹尘埃。——《菩提偈》惠能  
 >  
