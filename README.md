@@ -20,6 +20,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hmjz100&show_icons=true"></img>
   <br/>
   <img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
+  <br/>
+  <br/>
+  <img src="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5Njk0LCJwdXIiOiJibG9iX2lkIn19--1e4816b53eee84fdaba7448a49298de518c30282/wechat.webp" alt="微信二维码" width="300px" height="300px">
+  <br/>
+  <i>赞赏</i>
 </p>
 
 <!---
