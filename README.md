@@ -1,5 +1,6 @@
 ![hmjz100](https://socialify.git.ci/hmjz100/hmjz100/image?description=1&descriptionEditable=你能在各大平台中找到我~&font=Jost&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98228280&name=1&pattern=Circuit%20Board&theme=Auto)
 <p align="center">个人博客: <a target="_blank" href="https://addbeflashlite.epizy.com">https://addbeflashlite.epizy.com</a></p>
+<p align="center"><b>开放 · 平等 · 协作 · 快速 · 共享</b></p>
 
 > 开源不是独奏而是交响乐，  
 > 不必追求代码的独一无二，  
