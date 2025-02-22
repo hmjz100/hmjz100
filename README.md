@@ -1,26 +1,25 @@
 ![hmjz100](https://socialify.git.ci/hmjz100/hmjz100/image?description=1&descriptionEditable=你能在各大平台中找到我~&font=Jost&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98228280&name=1&pattern=Circuit%20Board&theme=Auto)
 <p align="center">个人博客: <a target="_blank" href="https://addbeflashlite.epizy.com">https://addbeflashlite.epizy.com</a></p>
 
-> 菩提本无树,明镜亦非台。本来无一物,何处惹尘埃。——《菩提偈》惠能  
->  
-> 开放、平等、协作、快速、共享。 ——互联网精神  
->  
-> 开源的理念追求的并不是独一无二，而是传播有趣的东西，你并不一定非要做出别人无法做出的东西。只要有趣，你可以把别人的东西做出来，别人也可以把你的东西做出来，仍然能从中获得一些乐趣，可以极大的满足人创造的需求。——[如何正确理解开源精神？ -知乎](https://www.zhihu.com/question/383024084)
+> 开源不是独奏而是交响乐，  
+> 不必追求代码的独一无二，  
+> 有趣的思想自会在传播中生长。  
+> 当我们重构彼此的星辰，  
+> 银河便有了新的模样  
+> ——改编自 [如何正确理解开源精神？ - 知乎](https://www.zhihu.com/question/383024084)
 
-感谢任何为开源社区做奉献的人！当然也包括我改的项目的原作者o(≧▽≦)o  
+<p align="center">感谢所有坚守初心的开源者！o(≧▽≦)o </p>
+<p align="center">整个银河系都在等待那声——Hello World</p>
 
 - 👋 嗨, 我是 @hmjz100
-- 👀 我对 HTML、JavaScript以及AI 感兴趣
+- 👀 我对 HTML、JavaScript 以及 AI 感兴趣
 - 🌱 我现在正在学 ...
 - 💞️ 我正在寻找合作 ...
-- 📫 如何联系我 2281323699@qq.com
+- 📫 如何联系我 hmjz1000@outlook.com 2281323699@qq.com
 - ✨ 你能在各大平台中找到我!
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmjz100&show_icons=true"></img>
-  <br/>
   <img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
-  <br/>
   <br/>
   <img src="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5Njk0LCJwdXIiOiJibG9iX2lkIn19--1e4816b53eee84fdaba7448a49298de518c30282/wechat.webp" alt="微信二维码" width="300px" height="300px">
   <br/>
@@ -263,4 +262,38 @@ V. 1.0.9.6（改自 6.2.7 版本）
 <center>个人博客: <a target="_blank" href="https://addbeflashlite.epizy.com">https://addbeflashlite.epizy.com</a></center>
 
 ---
+
+```
+在代码的世界里，光芒四射，  
+每一行代码都是一段心跳的旋律。  
+指尖飞舞，如画笔在画布上滑过，  
+在屏幕上勾勒出无限的可能。  
+  
+白天黑夜，思绪在编译，  
+逻辑与创意交织，成就了梦想的翅膀。  
+错误与调试，是成长的脚印，  
+每一次改进，都是智慧的升华。  
+  
+JavaScript 如魔法，操控着网页的灵魂，  
+HTML 是坚实的骨架，撑起网络的基础结构。  
+CSS 是缤纷的色彩，为梦想涂上斑斓的画卷，  
+AI 是我们的未来，指引着我们前行的方向。  
+  
+编程之旅，充满挑战与激情，  
+每一次运行，都是探索未知的冒险。  
+代码如诗，诉说着我们的故事，  
+在这数字的海洋中，追寻无尽的可能。
+```
+
+<img src="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5Njk0LCJwdXIiOiJibG9iX2lkIn19--1e4816b53eee84fdaba7448a49298de518c30282/wechat.webp" alt="微信二维码" width="300px" height="300px">
+
+> 菩提本无树,明镜亦非台。本来无一物,何处惹尘埃。——《菩提偈》惠能  
+>  
+> 开放、平等、协作、快速、共享。 ——互联网精神  
+>  
+> 开源的理念追求的并不是独一无二，而是传播有趣的东西，你并不一定非要做出别人无法做出的东西。只要有趣，你可以把别人的东西做出来，别人也可以把你的东西做出来，仍然能从中获得一些乐趣，可以极大的满足人创造的需求。——[如何正确理解开源精神？ -知乎](https://www.zhihu.com/question/383024084)
+
+感谢任何为开源社区做奉献的人！当然也包括我改的项目的原作者o(≧▽≦)o  
+
+<img src="https://github-readme-stats.vercel.app/api?username=hmjz100&show_icons=true"></img>
 --->
