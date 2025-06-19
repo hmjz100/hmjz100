@@ -1,5 +1,5 @@
 ![hmjz100](https://socialify.git.ci/hmjz100/hmjz100/image?description=1&descriptionEditable=你能在各大平台中找到我~&font=Jost&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F98228280&name=1&pattern=Circuit%20Board&theme=Auto)
-<p align="center">个人博客: <a target="_blank" href="https://addbeflashlite.epizy.com">https://addbeflashlite.epizy.com</a></p>
+<p align="center">个人博客: <a target="_blank" href="https://http://hmjz100blog.rf.gd/">https://http://hmjz100blog.rf.gd/</a></p>
 <p align="center"><b>开放 · 平等 · 协作 · 快速 · 共享</b></p>
 
 > 开源不是独奏而是交响乐，  
@@ -9,22 +9,20 @@
 > 银河便有了新的模样  
 > ——改编自 [如何正确理解开源精神？ - 知乎](https://www.zhihu.com/question/383024084)
 
-<p align="center">感谢所有坚守初心的开源者！o(≧▽≦)o </p>
-<p align="center">整个银河系都在等待那声——Hello World</p>
+感谢所有坚守初心的开源者！o(≧▽≦)o  
+(｡>ᴗ•)✧ 整个银河系都在等待那声——Hello World
+
+---
 
 - 👋 嗨, 我是 @hmjz100
-- 👀 我对 HTML、JavaScript 以及 AI 感兴趣
+- 👀 我对 HTML、JavaScript、Python 以及 AI 感兴趣
 - 🌱 我现在正在学 ...
 - 💞️ 我正在寻找合作 ...
-- 📫 如何联系我 hmjz1000@outlook.com 2281323699@qq.com
+- 📫 如何联系我 hmjz1000@outlook.com
 - ✨ 你能在各大平台中找到我!
   
 <p align="center">
   <img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
-  <br/>
-  <img src="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5Njk0LCJwdXIiOiJibG9iX2lkIn19--1e4816b53eee84fdaba7448a49298de518c30282/wechat.webp" alt="微信二维码" width="300px" height="300px">
-  <br/>
-  <i>赞赏</i>
 </p>
 
 <!---
@@ -36,6 +34,14 @@
 
 hmjz100/hmjz100 是一个 ✨ 特殊的 ✨ 存储库，因为它的 `README.md`（此文件）出现在您的 GitHub 个人资料中。
 您可以单击“预览”链接查看您的更改。
+
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/hmjz100/hmjz100.svg"></img>
+  <br/>
+  <img src="https://greasyfork.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5Njk0LCJwdXIiOiJibG9iX2lkIn19--1e4816b53eee84fdaba7448a49298de518c30282/wechat.webp" alt="微信二维码" width="300px" height="300px">
+  <br/>
+  <i>赞赏</i>
+</p>
 
 https://avatar/s.githu/busercontent.com/u/98228280 width="150vh"
 
