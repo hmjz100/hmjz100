@@ -18,7 +18,7 @@
 - 👀 我对 HTML、JavaScript、Python 以及 AI 感兴趣
 - 🌱 我现在正在学 ...
 - 💞️ 我正在寻找合作 ...
-- 📫 如何联系我 hmjz1000@outlook.com
+- 📫 如何联系我 hmjz1000（%$#艾特^*(）outlook.com
 - ✨ 你能在各大平台中找到我!
   
 <p align="center">
