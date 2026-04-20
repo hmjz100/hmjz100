@@ -15,7 +15,7 @@
 ---
 
 - 👋 嗨, 我是 @hmjz100
-- 👀 我对 HTML、JavaScript、Python 以及 AI 感兴趣
+- 👀 我对 Node、TypeScript、HTML、JavaScript、Python 以及 AI 感兴趣
 - 🌱 我现在正在学 ...
 - 💞️ 我正在寻找合作 ...
 - 📫 如何联系我 hmjz1000（%$#艾特^*(）outlook.com
